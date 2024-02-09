@@ -4,7 +4,9 @@ React Application Page to Display the Full Name and Email Address fetched from h
 
 ## How to Use
 -- Clone the Repository
+
 -- Use npm i to install all dependencies
+
 -- npm start to run the Project
 
 ## Live Demo
